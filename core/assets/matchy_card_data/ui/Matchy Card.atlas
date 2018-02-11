@@ -1,0 +1,29 @@
+
+Matchy Card.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 457, 717
+  size: 7, 41
+  split: 0, 0, 0, 7
+  pad: 2, 2, 0, 7
+  orig: 7, 41
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 1
+  size: 300, 301
+  orig: 300, 301
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 304
+  size: 454, 454
+  orig: 454, 454
+  offset: 0, 0
+  index: -1

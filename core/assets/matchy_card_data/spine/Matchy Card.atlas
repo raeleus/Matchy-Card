@@ -1,0 +1,20 @@
+
+Matchy Card.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card-back
+  rotate: false
+  xy: 1, 231
+  size: 165, 230
+  orig: 165, 230
+  offset: 0, 0
+  index: -1
+card-front
+  rotate: false
+  xy: 1, 1
+  size: 163, 228
+  orig: 163, 228
+  offset: 0, 0
+  index: -1
